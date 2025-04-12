@@ -58,7 +58,7 @@ Final output includes:
 This project showcases how SQL can be used to solve real business problems, evaluate performance, and drive insight-based decision making.
 
 ## 🎥 Video Presentation  
-Watch the full project presentation here 👉 [Click to Watch on YouTube](https://youtu.be/xic6Nyg2ZIQ)
+Watch the full project presentation here 👉 [Click to Watch on YouTube](https://www.youtube.com/embed/xic6Nyg2ZIQ?si=MWG1Of3YydXiOowz)
 
 📌 I also shared this project on LinkedIn — check out the post and join the discussion 👉 [View LinkedIn Post](https://www.linkedin.com/posts/ganesh-mandre_sql-dataanalytics-learningjourney-activity-7316463118132355072-x8Ri?utm_source=share&utm_medium=member_desktop&rcm=ACoAAChUMqgBCcYrTDPLI0kmw-oI62JvH6YGYKM)
 
